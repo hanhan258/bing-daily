@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-14 | [Temples on Hemakuta Hill, Hampi, Karnataka, India (© Images of india/Alamy)](https://cn.bing.com/th?id=OHR.HemakutaHill_EN-US2233323383_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-09-13 | [North Sea at sunset, Norddorf, Amrum Island, Germany (© Frederick Doerschem/Getty Images)](https://cn.bing.com/th?id=OHR.NorthSeaStairs_EN-US2097672090_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-09-12 | [Brooklyn Bridge with the 'Tribute in Light' installation for 9/11, New York (© ANDREY DENISYUK/Getty Images)](https://cn.bing.com/th?id=OHR.BridgeMemorial_EN-US1953692613_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
@@ -1900,3 +1902,4 @@
 2021-02-02 | [大格洛克纳山山峰前的土拨鼠，奥地利 (© SeppFriedhuber/Getty Images)](https://cn.bing.com/th?id=OHR.RainbowMarmot_ZH-CN4605973404_UHD.jpg) 
 
 2021-02-01 | [日落后的托莱多全景，西班牙 (© Frank Fischbach/Alamy)](https://cn.bing.com/th?id=OHR.ToledoIldefonso_ZH-CN4507206651_UHD.jpg) 
+

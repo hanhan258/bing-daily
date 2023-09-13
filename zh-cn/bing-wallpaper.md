@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-14 | [普氏野马，哈斯台国家公园，蒙古国 (© Ondrej Prosicky/Shutterstock)](https://cn.bing.com/th?id=OHR.MongoliaHorses_ZH-CN7660582867_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-09-11 | [波尔多葡萄园的日出，法国 (© Esperanza33/Getty Images)](https://cn.bing.com/th?id=OHR.MarathonMedoc_ZH-CN6649798028_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-09-10 | [斯瓦尔巴群岛海上的一对海象，挪威 (© Mark Smith/Getty Images)](https://cn.bing.com/th?id=OHR.WalrusSvalbard_ZH-CN6343458320_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
